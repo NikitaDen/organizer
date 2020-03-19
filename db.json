@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "tasks": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "taskText": "aaa",
+      "done": false,
+      "id": 1
     }
   ],
   "comments": [
