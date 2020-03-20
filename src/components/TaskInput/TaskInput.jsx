@@ -9,7 +9,7 @@ const TaskInput = (props) => {
 
     useEffect(() => {
         props.getTasksThunk();
-    }, [taskText]);
+    }, []);
 
     const setNewTask = () => {
         props.setNewTaskThunk(taskText);

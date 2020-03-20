@@ -1,6 +1,4 @@
 import React from "react";
-import {connect} from "react-redux";
-import {deleteTaskThunk, getTasksThunk, updateTaskThunk} from "../../redux/main-reducer";
 import done from './../../assets/images/done.svg';
 
 

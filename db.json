@@ -2,8 +2,18 @@
   "tasks": [
     {
       "taskText": "aaa",
-      "done": false,
+      "done": true,
       "id": 1
+    },
+    {
+      "taskText": "aaa",
+      "done": false,
+      "id": 2
+    },
+    {
+      "taskText": "фыфвы",
+      "done": true,
+      "id": 3
     }
   ],
   "comments": [
